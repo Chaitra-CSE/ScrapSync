@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "seller": "test124",
+    "waste_type": "Plastic",
+    "weight": 1.0,
+    "price": 20.0,
+    "pincode": "560022",
+    "status": "active",
+    "created_at": "2026-04-03T20:59:07.532899"
+  }
+]
