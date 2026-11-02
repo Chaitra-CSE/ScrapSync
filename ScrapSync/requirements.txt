@@ -3,6 +3,6 @@ tensorflow
 pillow
 numpy
 pandas
-opencv-python
+opencv-python-headless
 plotly
 protobuf
